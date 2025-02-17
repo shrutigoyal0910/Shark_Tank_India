@@ -1,1 +1,2 @@
 # Shark_Tank_India
+Shark Tank India is an Indian Hindi-language business reality television series that airs on Sony Entertainment Television. The show is the Indian franchise of the American show Shark Tank. It shows entrepreneurs making business presentations to a panel of investors or sharks, who decide whether to invest in their company. This data is about the first season of Shark Tank India premiered on 20 December 2021, and concluded on 4 February 2022.
