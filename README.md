@@ -22,4 +22,4 @@ Shark Tank India is an Indian Hindi-language business reality television series 
   * Namita total of 134.78% with max of 25%
   * Vineeta total of 131.53% with max of 25%
   * Ashneer total of 93.24% with max of 25%
-Ghazal total of 46.7% with max of 17.5%
+  * Ghazal total of 46.7% with max of 17.5%
